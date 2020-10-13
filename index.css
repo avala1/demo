@@ -3,7 +3,7 @@ body {
 background-image:url(https://cdn.pixabay.com/photo/2014/02/17/21/45/bricks-268739_1280.jpg);
 }
 h1, h2 {
-  background: #AD6767;
+font-size:3rem;
 color: green;
 }
 h3 {
